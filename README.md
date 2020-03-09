@@ -1,3 +1,3 @@
 # Game
 My first game<br />
-This is still unfinished and will geet big fixes and more features.
+This is still unfinished and will get bug fixes and more features.
