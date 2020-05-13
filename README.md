@@ -27,4 +27,4 @@
   * [Feature request form](https://forms.gle/YAqPsDKF1mwpcrGRA)
   
 ### Updates
-[13-05-2020]{% post_url 2020-05-13-Upcoming %}
+[13-05-2020]({% post_url 2020-05-13-Upcoming %})
