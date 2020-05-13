@@ -2,7 +2,7 @@
 ## My first game<br />
 * This is still in development and updated.<br />
 * For downloads go to:<br />
-  * [https://github.com/tristanvandeweg/Game/releases](https://github.com/tristanvandeweg/Game/releases)
+  * [https://github.com/tristanvandeweg/SQUARE/releases](https://github.com/tristanvandeweg/SQUARE/releases)
 * For old versions not on the release page download the repository.
 * Not all versions have a linux build.
   * From v1.0 all builds will have a linux version.
