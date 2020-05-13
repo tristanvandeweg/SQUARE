@@ -1,6 +1,8 @@
+---
 layout: page
 title: "In Development"
 permalink: /development/
+---
 
 # Currently worked on major features
 * Commands
