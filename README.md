@@ -5,8 +5,8 @@
   * [https://github.com/tristanvandeweg/Game/releases](https://github.com/tristanvandeweg/Game/releases)
 * For old versions not on the release page download the repository.
 * Not all versions have a linux build.
- * From v1.0 all builds will have a linux version.
- * You can run the windows builds on linux with wine, which works pretty good.
+  * From v1.0 all builds will have a linux version.
+  * You can run the windows builds on linux with wine, which works pretty good.
 
 ### Download & Run
 * Windows
