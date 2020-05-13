@@ -1,4 +1,4 @@
-# Game
+# SQUARE
 ## My first game<br />
 * This is still in development and updated.<br />
 * For downloads go to:<br />
