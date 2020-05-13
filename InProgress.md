@@ -2,6 +2,7 @@
 layout: page
 title: "In Development"
 permalink: /development/
+theme: jekyll-theme-cayman
 ---
 
 # Currently worked on major features
